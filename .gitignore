@@ -21,3 +21,7 @@ logs/
 
 # test coverage output
 coverage/
+
+# local environment notes: accounts, proxy endpoints, key paths, machine details
+private/
+*.local.md
